@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+}
+
+.cursor1 {
+    background-color: chartreuse;
+    color: darkmagenta;
+}
+.cursor2 {
+    background-color: brown; 
+    color: darkturquoise;
+}
+.cursor3 {
+    background-color: chocolate;
+    color: dodgerblue;
+}
+.cursor4 {
+    background-color: cornflowerblue;
+    color: greenyellow;
+}
+.cursor5 {
+    background-color: darkgreen;
+    color: peru;
+}
